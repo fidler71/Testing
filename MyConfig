@@ -8808,24 +8808,24 @@
       <increaseLimitEnabled>true</increaseLimitEnabled>
          <nodes>
     <node id="node0.online.sberbank.ru">
-       <enabled>false</enabled>
-         <increaseLimitEnabled>false</increaseLimitEnabled>
+       <enabled>true</enabled>
+         <increaseLimitEnabled>true</increaseLimitEnabled>
     </node>
     <node id="node1.online.sberbank.ru">
-       <enabled>false</enabled>
+       <enabled>true</enabled>
          <increaseLimitEnabled>true</increaseLimitEnabled>
     </node>
     <node id="node2.online.sberbank.ru">
-        <enabled>false</enabled>
-          <increaseLimitEnabled>false</increaseLimitEnabled>
+        <enabled>true</enabled>
+          <increaseLimitEnabled>true</increaseLimitEnabled>
     </node>
     <node id="node3.online.sberbank.ru">
-        <enabled>false</enabled>
-          <increaseLimitEnabled>false</increaseLimitEnabled>
+        <enabled>true</enabled>
+          <increaseLimitEnabled>true</increaseLimitEnabled>
     </node>
     <node id="greenfield1.online.sberbank.ru">
         <enabled>true</enabled>
-          <increaseLimitEnabled>false</increaseLimitEnabled>
+          <increaseLimitEnabled>true</increaseLimitEnabled>
     </node>
     <node id="ift-node1.testonline.sberbank.ru">
         <enabled>true</enabled>
